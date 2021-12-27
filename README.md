@@ -1,6 +1,6 @@
 # Analysis-of-music-data.
 
-## Melon 음악사이트의 과거데이터를 수집후 가공,시각화후 탐색하여(EDA) 어떠한 요인들이 신인여자아이돌그룹의 데뷔전략에 좋을것인가에 대한 분석 프로젝트
+## Melon 데이터를 기반으로 시각화후 빈도수탐색하여(EDA) 어떠한 요인들이 신인여자아이돌그룹의 데뷔전략에 좋을것인가에 대한 분석 프로젝트
 
 ![슬라이드1](https://user-images.githubusercontent.com/85554019/139433191-1e0c6536-bf2d-4645-826f-c905427c67ff.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/85554019/139433193-4477d61c-fed0-446f-8d6a-1bdb5c9b0823.PNG)
